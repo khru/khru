@@ -1,6 +1,7 @@
 # 💫About Me:
-- 🔭 I’m currently working [@codurance](https://www.codurance.com/)
-- 👯 I’m looking to collaborate on communities and open source projects
+- 🔭 I’m currently working [@about you](https://www.aboutyou.es/)
+- 🔙 Just to work [@codurance](https://www.codurance.com/)
+- 👯 I’m looking to collaborate on communities and open-source projects
 - 🤝 I’m looking for help with communities
 - 🌱 I’m currently learning best practices
 - 💬 Ask me about SOLID, TDD, DDD, CQRS
