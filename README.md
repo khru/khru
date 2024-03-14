@@ -4,9 +4,18 @@
 - 👯 I’m looking to collaborate on communities and open-source projects
 - 🤝 I’m looking for help with communities
 - 🌱 I’m currently learning best practices
-- 💬 Ask me about SOLID, TDD, DDD, CQRS
+- 💬 Ask me about Software design principles, Test-Driven Development, Pair/Ensemble programming, Trunk-base development, Slicing, Continuous Integration, Continuous Delivery, Feature Flags, Mutant Testing, DDD, CQRS
+- 📚️ You could find my research with [@marabesi](https://github.com/marabesi) about [Common Patterns that make TDD harder: An essay from practitioners](https://www.researchgate.net/publication/378856966_Common_Patterns_that_make_TDD_harder_An_essay_from_practitioners)
 
 **If you want to know more about me you could find me at me [website](https://emmanuelvalverde.dev/)**
+---
+
+## Some of the talks
+TDD Anti-Patterns with [@marabesi](https://github.com/marabesi)          |  Improving your life with Extreme Programming           |  Re-aprendiendo Orientación a objetos, esta vez, bien with [@antonio_gg_dev](https://twitter.com/antonio_gg_dev)
+:-------------------------:|:-------------------------:|:-------------------------:
+[![sddefault](https://github.com/khru/khru/assets/6353105/98a045fe-8574-420d-a967-14c7f3c102e9)](https://www.youtube.com/live/lQP33NZo-nU?si=jZIMw5x4j8HSO74F) | [![maxresdefault](https://github.com/khru/khru/assets/6353105/7dff2bc3-307f-4345-ad92-93dda2abe2b9)](https://youtu.be/pXGqRBg-K4Y?si=y8XXGHhcoAz1fA1z) | [![maxresdefault (1)](https://github.com/khru/khru/assets/6353105/c9bcba28-8679-4923-bdbc-e4a7f50f6195)](https://youtu.be/FddyS7-crlQ?si=FoHRSiynUlM9a8kC)
+
+
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/evalverde_dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-valverde-ramos) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/evrtrabajo) 
