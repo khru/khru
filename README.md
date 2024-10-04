@@ -1,5 +1,5 @@
 # 💫About Me:
-- 🔭 I’m currently working [@about you](https://www.aboutyou.es/)
+- 🔭 I’m currently working [@Voxel](https://www.voxelgroup.net/)
 - 🔙 Just to work [@codurance](https://www.codurance.com/)
 - 👯 I’m looking to collaborate on communities and open-source projects
 - 🤝 I’m looking for help with communities
