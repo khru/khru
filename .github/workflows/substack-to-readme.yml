@@ -2,7 +2,7 @@ name: Substack to README
 
 on:
   schedule:
-    - cron: "10 7 * * *"   # 07:10 UTC, adjust as you like
+    - cron: "0 * * * *"   # runs at minute 0 of every hour UTC
   workflow_dispatch:
 
 permissions:
