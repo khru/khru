@@ -1,0 +1,22 @@
+# Root of the repo
+root = true
+
+# Defaults for everything
+[*]
+charset = utf-8
+end_of_line = lf
+indent_style = space
+indent_size = 2
+tab_width = 2
+insert_final_newline = true
+trim_trailing_whitespace = true
+max_line_length = 120
+
+# YAML
+[*.{yml,yaml}]
+indent_size = 2
+
+# Markdown: keep intentional trailing spaces and do not enforce line length
+[*.md]
+max_line_length = off
+
