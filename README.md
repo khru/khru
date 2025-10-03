@@ -15,7 +15,7 @@
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------:|
 | [![sddefault](https://github.com/khru/khru/assets/6353105/98a045fe-8574-420d-a967-14c7f3c102e9)](https://www.youtube.com/live/lQP33NZo-nU?si=jZIMw5x4j8HSO74F) | [![maxresdefault](https://github.com/khru/khru/assets/6353105/7dff2bc3-307f-4345-ad92-93dda2abe2b9)](https://youtu.be/pXGqRBg-K4Y?si=y8XXGHhcoAz1fA1z) | [![maxresdefault (1)](https://github.com/khru/khru/assets/6353105/c9bcba28-8679-4923-bdbc-e4a7f50f6195)](https://youtu.be/FddyS7-crlQ?si=FoHRSiynUlM9a8kC) | [![image](https://github.com/user-attachments/assets/06d25cf5-985d-4604-9471-ff069ba47ac1)](https://youtu.be/EutsbaoBEUQ?si=iKnBG6UzhtQhOjCB) |
 
-## Latest from my blog Crafting Software
+## Blog
 <!-- BLOGPOSTS:START -->
 <!-- BLOGPOSTS:END -->
 

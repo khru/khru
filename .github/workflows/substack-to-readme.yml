@@ -15,20 +15,10 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Update README from Substack RSS
-        uses: kohrongying/readme-the-rss@v1
+        uses: JasonEtco/rss-to-readme@v2
         with:
-          feed_url: ${{ secrets.FEED_PROXY_URL }} # set to your Worker URL
-          count: 30
-          readme_path: README.md
-
-      - name: Commit and push if changed
-        run: |
-          if ! git diff --quiet; then
-            git config user.name "github-actions[bot]"
-            git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add README.md
-            git commit -m "chore: update README with latest Substack posts"
-            git push
-          else
-            echo "No changes"
-          fi
+          feed-url: ${{ secrets.FEED_PROXY_URL }} # set to your Worker URL
+          max: 30
+          path: README.md
+          empty-commits: false
+          readme-section: 'Blog'
