@@ -17,6 +17,26 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [Outside-in: technics Pivote and Drill-down](https://emmanuelvalverderamos.substack.com/p/outside-in-technics-pivote-and-drill)
+* [Discovering Peers with GOOS Techniques](https://emmanuelvalverderamos.substack.com/p/discovering-peers-with-goos-techniques)
+* [In depth view to Peers, Internals collaborators](https://emmanuelvalverderamos.substack.com/p/in-depth-view-to-peers-internals)
+* [The Gold-Plater or Over-Engineer](https://emmanuelvalverderamos.substack.com/p/the-gold-plater-or-over-engineer)
+* [The Toxic Critic or “No-but” Engineer](https://emmanuelvalverderamos.substack.com/p/the-toxic-critic-or-no-but-engineer)
+* [The Martyr or Over-Committer](https://emmanuelvalverderamos.substack.com/p/the-martyr-or-over-committer)
+* [The Ivory Tower Architect](https://emmanuelvalverderamos.substack.com/p/the-ivory-tower-architect)
+* [The Knowledge Kidnapper or Silo Builder](https://emmanuelvalverderamos.substack.com/p/the-knowledge-kidnapper-or-silo-builder)
+* [The Micromanager or Puppet Master](https://emmanuelvalverderamos.substack.com/p/the-micromanager-or-puppet-master)
+* [The Cowboy Coder or Lone Wolf](https://emmanuelvalverderamos.substack.com/p/the-cowboy-coder-or-lone-wolf)
+* [The Hero / Rockstar / “10× Developer”](https://emmanuelvalverderamos.substack.com/p/the-hero-rockstar-10-developer)
+* [From “Ivory Tower Architect” to Staff & Principal Engineer](https://emmanuelvalverderamos.substack.com/p/from-ivory-tower-architect-to-staff)
+* [Mockist TDD: Just enough design](https://emmanuelvalverderamos.substack.com/p/mockist-tdd-just-enough-design)
+* [🧠 Motivation doesn’t live in a dashboard](https://emmanuelvalverderamos.substack.com/p/motivation-doesnt-live-in-a-dashboard)
+* [CRC cards: Class, Responsibility, Collaborator cards](https://emmanuelvalverderamos.substack.com/p/crc-cards-class-responsibility-collaborator)
+* [Test-Driven Development the basics](https://emmanuelvalverderamos.substack.com/p/test-driven-development-the-basics)
+* [Exploring Testing Strategies: Past, Present, and Future](https://emmanuelvalverderamos.substack.com/p/exploring-testing-strategies-past)
+* [🧯 Never the expert: breaking knowledge silos and bottlenecks in technical teams](https://emmanuelvalverderamos.substack.com/p/never-the-expert-breaking-knowledge)
+* [❌ ÑaaS: when patches become a product](https://emmanuelvalverderamos.substack.com/p/naas-when-patches-become-a-product)
+* [The hidden leadership biases that sabotage true team autonomy](https://emmanuelvalverderamos.substack.com/p/the-hidden-leadership-biases-that)
 <!--END_SECTION:Blog-->
 
 
