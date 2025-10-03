@@ -18,7 +18,7 @@ jobs:
         uses: JasonEtco/rss-to-readme@v2
         with:
           feed-url: ${{ secrets.FEED_PROXY_URL }} # set to your Worker URL
-          max: 30
+          max: 100
           path: README.md
           empty-commits: false
           readme-section: 'Blog'
