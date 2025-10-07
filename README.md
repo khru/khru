@@ -17,6 +17,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [Test-Driven Development "styles" Classicist (Detroit/Chicago) vs Outside-in (London)](https://emmanuelvalverderamos.substack.com/p/test-driven-development-styles-classicist)
 * [Outside-in: technics Pivote and Drill-down](https://emmanuelvalverderamos.substack.com/p/outside-in-technics-pivote-and-drill)
 * [Discovering Peers with GOOS Techniques](https://emmanuelvalverderamos.substack.com/p/discovering-peers-with-goos-techniques)
 * [In depth view to Peers, Internals collaborators](https://emmanuelvalverderamos.substack.com/p/in-depth-view-to-peers-internals)
@@ -36,7 +37,6 @@
 * [Exploring Testing Strategies: Past, Present, and Future](https://emmanuelvalverderamos.substack.com/p/exploring-testing-strategies-past)
 * [🧯 Never the expert: breaking knowledge silos and bottlenecks in technical teams](https://emmanuelvalverderamos.substack.com/p/never-the-expert-breaking-knowledge)
 * [❌ ÑaaS: when patches become a product](https://emmanuelvalverderamos.substack.com/p/naas-when-patches-become-a-product)
-* [The hidden leadership biases that sabotage true team autonomy](https://emmanuelvalverderamos.substack.com/p/the-hidden-leadership-biases-that)
 <!--END_SECTION:Blog-->
 
 
