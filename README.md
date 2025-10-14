@@ -17,6 +17,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [Happy Path vs. Sad Paths (Personal opinion)](https://emmanuelvalverderamos.substack.com/p/happy-path-vs-sad-paths-personal)
 * [Test-Driven Development "styles" Classicist (Detroit/Chicago) vs Outside-in (London)](https://emmanuelvalverderamos.substack.com/p/test-driven-development-styles-classicist)
 * [Outside-in: technics Pivote and Drill-down](https://emmanuelvalverderamos.substack.com/p/outside-in-technics-pivote-and-drill)
 * [Discovering Peers with GOOS Techniques](https://emmanuelvalverderamos.substack.com/p/discovering-peers-with-goos-techniques)
@@ -36,7 +37,6 @@
 * [Test-Driven Development the basics](https://emmanuelvalverderamos.substack.com/p/test-driven-development-the-basics)
 * [Exploring Testing Strategies: Past, Present, and Future](https://emmanuelvalverderamos.substack.com/p/exploring-testing-strategies-past)
 * [🧯 Never the expert: breaking knowledge silos and bottlenecks in technical teams](https://emmanuelvalverderamos.substack.com/p/never-the-expert-breaking-knowledge)
-* [❌ ÑaaS: when patches become a product](https://emmanuelvalverderamos.substack.com/p/naas-when-patches-become-a-product)
 <!--END_SECTION:Blog-->
 
 
