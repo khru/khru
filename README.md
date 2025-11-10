@@ -20,7 +20,7 @@
 * [Rethinking E2E: small, on-production smoke checks for critical flows](https://emmanuelvalverderamos.substack.com/p/rethinking-e2e-small-on-production)
 * [Happy Path vs. Sad Paths (Personal opinion)](https://emmanuelvalverderamos.substack.com/p/happy-path-vs-sad-paths-personal)
 * [Test-Driven Development "styles" Classicist (Detroit/Chicago) vs Outside-in (London)](https://emmanuelvalverderamos.substack.com/p/test-driven-development-styles-classicist)
-* [Outside-in: technics Pivote and Drill-down](https://emmanuelvalverderamos.substack.com/p/outside-in-technics-pivote-and-drill)
+* [Outside-in: techniques Pivote and Drill-down](https://emmanuelvalverderamos.substack.com/p/outside-in-technics-pivote-and-drill)
 * [Discovering Peers with GOOS Techniques](https://emmanuelvalverderamos.substack.com/p/discovering-peers-with-goos-techniques)
 * [In depth view to Peers, Internals collaborators](https://emmanuelvalverderamos.substack.com/p/in-depth-view-to-peers-internals)
 * [The Gold-Plater or Over-Engineer](https://emmanuelvalverderamos.substack.com/p/the-gold-plater-or-over-engineer)
