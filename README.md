@@ -17,6 +17,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [Building a skill matrix that actually helps your team](https://emmanuelvalverderamos.substack.com/p/building-a-skill-matrix-that-actually)
 * [Materialization: turning a false peer into an internal](https://emmanuelvalverderamos.substack.com/p/materialization-turning-a-false-peer)
 * [Rethinking E2E: small, on-production smoke checks for critical flows](https://emmanuelvalverderamos.substack.com/p/rethinking-e2e-small-on-production)
 * [Happy Path vs. Sad Paths (Personal opinion)](https://emmanuelvalverderamos.substack.com/p/happy-path-vs-sad-paths-personal)
@@ -36,7 +37,6 @@
 * [Mockist TDD: Just enough design](https://emmanuelvalverderamos.substack.com/p/mockist-tdd-just-enough-design)
 * [🧠 Motivation doesn’t live in a dashboard](https://emmanuelvalverderamos.substack.com/p/motivation-doesnt-live-in-a-dashboard)
 * [CRC cards: Class, Responsibility, Collaborator cards](https://emmanuelvalverderamos.substack.com/p/crc-cards-class-responsibility-collaborator)
-* [Test-Driven Development the basics](https://emmanuelvalverderamos.substack.com/p/test-driven-development-the-basics)
 <!--END_SECTION:Blog-->
 
 
