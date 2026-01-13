@@ -17,6 +17,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [Introduction to Event Storming](https://emmanuelvalverderamos.substack.com/p/introduction-to-event-storming)
 * [Building a skill matrix that actually helps your team](https://emmanuelvalverderamos.substack.com/p/building-a-skill-matrix-that-actually)
 * [Materialization: turning a false peer into an internal](https://emmanuelvalverderamos.substack.com/p/materialization-turning-a-false-peer)
 * [Rethinking E2E: small, on-production smoke checks for critical flows](https://emmanuelvalverderamos.substack.com/p/rethinking-e2e-small-on-production)
@@ -36,7 +37,6 @@
 * [From “Ivory Tower Architect” to Staff & Principal Engineer](https://emmanuelvalverderamos.substack.com/p/from-ivory-tower-architect-to-staff)
 * [Mockist TDD: Just enough design](https://emmanuelvalverderamos.substack.com/p/mockist-tdd-just-enough-design)
 * [🧠 Motivation doesn’t live in a dashboard](https://emmanuelvalverderamos.substack.com/p/motivation-doesnt-live-in-a-dashboard)
-* [CRC cards: Class, Responsibility, Collaborator cards](https://emmanuelvalverderamos.substack.com/p/crc-cards-class-responsibility-collaborator)
 <!--END_SECTION:Blog-->
 
 
