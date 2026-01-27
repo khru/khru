@@ -17,6 +17,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [Introduction to Domain Storytelling](https://emmanuelvalverderamos.substack.com/p/introduction-to-domain-storytelling)
 * [Introduction to Event Modeling](https://emmanuelvalverderamos.substack.com/p/introduction-to-event-modeling)
 * [Introduction to Event Storming](https://emmanuelvalverderamos.substack.com/p/introduction-to-event-storming)
 * [Building a skill matrix that actually helps your team](https://emmanuelvalverderamos.substack.com/p/building-a-skill-matrix-that-actually)
@@ -36,7 +37,6 @@
 * [The Cowboy Coder or Lone Wolf](https://emmanuelvalverderamos.substack.com/p/the-cowboy-coder-or-lone-wolf)
 * [The Hero / Rockstar / “10× Developer”](https://emmanuelvalverderamos.substack.com/p/the-hero-rockstar-10-developer)
 * [From “Ivory Tower Architect” to Staff & Principal Engineer](https://emmanuelvalverderamos.substack.com/p/from-ivory-tower-architect-to-staff)
-* [Mockist TDD: Just enough design](https://emmanuelvalverderamos.substack.com/p/mockist-tdd-just-enough-design)
 <!--END_SECTION:Blog-->
 
 
