@@ -17,6 +17,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [Speedback](https://emmanuelvalverderamos.substack.com/p/speedback)
 * [A complete guide to Pair Programming](https://emmanuelvalverderamos.substack.com/p/how-to-do-pair-programming)
 * [Introduction to Domain Storytelling](https://emmanuelvalverderamos.substack.com/p/introduction-to-domain-storytelling)
 * [Introduction to Event Modeling](https://emmanuelvalverderamos.substack.com/p/introduction-to-event-modeling)
@@ -36,7 +37,6 @@
 * [The Knowledge Kidnapper or Silo Builder](https://emmanuelvalverderamos.substack.com/p/the-knowledge-kidnapper-or-silo-builder)
 * [The Micromanager or Puppet Master](https://emmanuelvalverderamos.substack.com/p/the-micromanager-or-puppet-master)
 * [The Cowboy Coder or Lone Wolf](https://emmanuelvalverderamos.substack.com/p/the-cowboy-coder-or-lone-wolf)
-* [The Hero / Rockstar / “10× Developer”](https://emmanuelvalverderamos.substack.com/p/the-hero-rockstar-10-developer)
 <!--END_SECTION:Blog-->
 
 
