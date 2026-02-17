@@ -17,6 +17,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [Separation of concerns, functional thinking, and the discipline of simplicity](https://emmanuelvalverderamos.substack.com/p/separation-of-concerns-functional)
 * [Speedback](https://emmanuelvalverderamos.substack.com/p/speedback)
 * [A complete guide to Pair Programming](https://emmanuelvalverderamos.substack.com/p/how-to-do-pair-programming)
 * [Introduction to Domain Storytelling](https://emmanuelvalverderamos.substack.com/p/introduction-to-domain-storytelling)
@@ -36,7 +37,6 @@
 * [The Ivory Tower Architect](https://emmanuelvalverderamos.substack.com/p/the-ivory-tower-architect)
 * [The Knowledge Kidnapper or Silo Builder](https://emmanuelvalverderamos.substack.com/p/the-knowledge-kidnapper-or-silo-builder)
 * [The Micromanager or Puppet Master](https://emmanuelvalverderamos.substack.com/p/the-micromanager-or-puppet-master)
-* [The Cowboy Coder or Lone Wolf](https://emmanuelvalverderamos.substack.com/p/the-cowboy-coder-or-lone-wolf)
 <!--END_SECTION:Blog-->
 
 
