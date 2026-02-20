@@ -1,5 +1,5 @@
 # 💫About Me:
-- 🔭 I’m currently working [@Voxel](https://www.voxelgroup.net/)
+- 🔭 I’m currently working [@AIDA](https://www.aidacanarias.com/) [Applicaciones Informaticas Domingo Alonso]
 - 🔙 Just to work [@codurance](https://www.codurance.com/)
 - 👯 I’m looking to collaborate on communities and open-source projects
 - 🤝 I’m looking for help with communities
