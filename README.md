@@ -17,6 +17,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [TDD Guided by ZOMBIES](https://emmanuelvalverderamos.substack.com/p/tdd-guided-by-zombies)
 * [Separation of concerns, functional thinking, and the discipline of simplicity](https://emmanuelvalverderamos.substack.com/p/separation-of-concerns-functional)
 * [Speedback](https://emmanuelvalverderamos.substack.com/p/speedback)
 * [A complete guide to Pair Programming](https://emmanuelvalverderamos.substack.com/p/how-to-do-pair-programming)
@@ -36,7 +37,6 @@
 * [The Martyr or Over-Committer](https://emmanuelvalverderamos.substack.com/p/the-martyr-or-over-committer)
 * [The Ivory Tower Architect](https://emmanuelvalverderamos.substack.com/p/the-ivory-tower-architect)
 * [The Knowledge Kidnapper or Silo Builder](https://emmanuelvalverderamos.substack.com/p/the-knowledge-kidnapper-or-silo-builder)
-* [The Micromanager or Puppet Master](https://emmanuelvalverderamos.substack.com/p/the-micromanager-or-puppet-master)
 <!--END_SECTION:Blog-->
 
 
