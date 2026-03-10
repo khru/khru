@@ -17,6 +17,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [Trunk-based development is not a Git trick. It is what continuous integration looks like.](https://emmanuelvalverderamos.substack.com/p/trunk-based-development-is-not-a)
 * [Triangulation in TDD and the Rule of Three](https://emmanuelvalverderamos.substack.com/p/triangulation-in-tdd-and-the-rule)
 * [TDD Guided by ZOMBIES](https://emmanuelvalverderamos.substack.com/p/tdd-guided-by-zombies)
 * [Separation of concerns, functional thinking, and the discipline of simplicity](https://emmanuelvalverderamos.substack.com/p/separation-of-concerns-functional)
@@ -36,7 +37,6 @@
 * [The Gold-Plater or Over-Engineer](https://emmanuelvalverderamos.substack.com/p/the-gold-plater-or-over-engineer)
 * [The Toxic Critic or “No-but” Engineer](https://emmanuelvalverderamos.substack.com/p/the-toxic-critic-or-no-but-engineer)
 * [The Martyr or Over-Committer](https://emmanuelvalverderamos.substack.com/p/the-martyr-or-over-committer)
-* [The Ivory Tower Architect](https://emmanuelvalverderamos.substack.com/p/the-ivory-tower-architect)
 <!--END_SECTION:Blog-->
 
 
