@@ -17,6 +17,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [ACID, properly understood: transactions as the engine of correctness](https://emmanuelvalverderamos.substack.com/p/acid-properly-understood-transactions)
 * [AI can write code. That was never the bottleneck.](https://emmanuelvalverderamos.substack.com/p/the-real-bottleneck-was-never-code)
 * [Trunk-based development is not a Git trick. It is what continuous integration looks like.](https://emmanuelvalverderamos.substack.com/p/trunk-based-development-is-not-a)
 * [Triangulation in TDD and the Rule of Three](https://emmanuelvalverderamos.substack.com/p/triangulation-in-tdd-and-the-rule)
@@ -36,7 +37,6 @@
 * [Discovering Peers with GOOS Techniques](https://emmanuelvalverderamos.substack.com/p/discovering-peers-with-goos-techniques)
 * [In depth view to Peers, Internals collaborators](https://emmanuelvalverderamos.substack.com/p/in-depth-view-to-peers-internals)
 * [The Gold-Plater or Over-Engineer](https://emmanuelvalverderamos.substack.com/p/the-gold-plater-or-over-engineer)
-* [The Toxic Critic or “No-but” Engineer](https://emmanuelvalverderamos.substack.com/p/the-toxic-critic-or-no-but-engineer)
 <!--END_SECTION:Blog-->
 
 
