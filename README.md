@@ -17,6 +17,8 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [My reflection on the real problem about AI in the software industry](https://emmanuelvalverderamos.substack.com/p/my-reflection-on-the-real-problem)
+* [Stop measuring AI adoption with token counts](https://emmanuelvalverderamos.substack.com/p/stop-measuring-ai-adoption-with-token)
 * [Idempotency in software: Designing systems where you can safely retry](https://emmanuelvalverderamos.substack.com/p/idempotency-in-software-designing)
 * [ACID, properly understood: transactions as the engine of correctness](https://emmanuelvalverderamos.substack.com/p/acid-properly-understood-transactions)
 * [AI can write code. That was never the bottleneck.](https://emmanuelvalverderamos.substack.com/p/the-real-bottleneck-was-never-code)
@@ -35,8 +37,6 @@
 * [Happy Path vs. Sad Paths (Personal opinion)](https://emmanuelvalverderamos.substack.com/p/happy-path-vs-sad-paths-personal)
 * [Test-Driven Development "styles" Classicist (Detroit/Chicago) vs Outside-in (London)](https://emmanuelvalverderamos.substack.com/p/test-driven-development-styles-classicist)
 * [Outside-in: techniques Pivote and Drill-down](https://emmanuelvalverderamos.substack.com/p/outside-in-technics-pivote-and-drill)
-* [Discovering Peers with GOOS Techniques](https://emmanuelvalverderamos.substack.com/p/discovering-peers-with-goos-techniques)
-* [In depth view to Peers, Internals collaborators](https://emmanuelvalverderamos.substack.com/p/in-depth-view-to-peers-internals)
 <!--END_SECTION:Blog-->
 
 
