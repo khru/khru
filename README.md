@@ -17,6 +17,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [AI assistance is not pair programming](https://emmanuelvalverderamos.substack.com/p/ai-assistance-is-not-pair-programming)
 * [Streaming vs Pub Sub and the Architectural Impact on Event Driven Systems](https://emmanuelvalverderamos.substack.com/p/streaming-vs-pub-sub-and-the-architectural)
 * [A Developer's Guide to Message Brokers](https://emmanuelvalverderamos.substack.com/p/a-developers-guide-to-message-brokers)
 * [My reflection on the real problem about AI in the software industry](https://emmanuelvalverderamos.substack.com/p/my-reflection-on-the-real-problem)
@@ -36,7 +37,6 @@
 * [Building a skill matrix that actually helps your team](https://emmanuelvalverderamos.substack.com/p/building-a-skill-matrix-that-actually)
 * [Materialization: turning a false peer into an internal](https://emmanuelvalverderamos.substack.com/p/materialization-turning-a-false-peer)
 * [Rethinking E2E: small, on-production smoke checks for critical flows](https://emmanuelvalverderamos.substack.com/p/rethinking-e2e-small-on-production)
-* [Happy Path vs. Sad Paths (Personal opinion)](https://emmanuelvalverderamos.substack.com/p/happy-path-vs-sad-paths-personal)
 <!--END_SECTION:Blog-->
 
 
