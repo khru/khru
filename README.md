@@ -17,6 +17,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [Event-Driven Architecture introduction](https://emmanuelvalverderamos.substack.com/p/event-driven-architecture-from-zero)
 * [The label survives, the meaning dies](https://emmanuelvalverderamos.substack.com/p/the-label-survives-the-meaning-dies)
 * [AI assistance is not pair programming](https://emmanuelvalverderamos.substack.com/p/ai-assistance-is-not-pair-programming)
 * [Streaming vs Pub Sub and the Architectural Impact on Event Driven Systems](https://emmanuelvalverderamos.substack.com/p/streaming-vs-pub-sub-and-the-architectural)
@@ -36,7 +37,6 @@
 * [Introduction to Event Modeling](https://emmanuelvalverderamos.substack.com/p/introduction-to-event-modeling)
 * [Introduction to Event Storming](https://emmanuelvalverderamos.substack.com/p/introduction-to-event-storming)
 * [Building a skill matrix that actually helps your team](https://emmanuelvalverderamos.substack.com/p/building-a-skill-matrix-that-actually)
-* [Materialization: turning a false peer into an internal](https://emmanuelvalverderamos.substack.com/p/materialization-turning-a-false-peer)
 <!--END_SECTION:Blog-->
 
 
