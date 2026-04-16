@@ -17,6 +17,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [Product is not the backlog](https://emmanuelvalverderamos.substack.com/p/product-is-not-the-backlog)
 * [Event-Driven Architecture introduction](https://emmanuelvalverderamos.substack.com/p/event-driven-architecture-from-zero)
 * [The label survives, the meaning dies](https://emmanuelvalverderamos.substack.com/p/the-label-survives-the-meaning-dies)
 * [AI assistance is not pair programming](https://emmanuelvalverderamos.substack.com/p/ai-assistance-is-not-pair-programming)
@@ -36,7 +37,6 @@
 * [Introduction to Domain Storytelling](https://emmanuelvalverderamos.substack.com/p/introduction-to-domain-storytelling)
 * [Introduction to Event Modeling](https://emmanuelvalverderamos.substack.com/p/introduction-to-event-modeling)
 * [Introduction to Event Storming](https://emmanuelvalverderamos.substack.com/p/introduction-to-event-storming)
-* [Building a skill matrix that actually helps your team](https://emmanuelvalverderamos.substack.com/p/building-a-skill-matrix-that-actually)
 <!--END_SECTION:Blog-->
 
 
