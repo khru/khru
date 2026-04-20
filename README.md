@@ -17,6 +17,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [Use AI is not a strategy](https://emmanuelvalverderamos.substack.com/p/use-ai-is-not-a-strategy)
 * [Product is not the backlog](https://emmanuelvalverderamos.substack.com/p/product-is-not-the-backlog)
 * [Event-Driven Architecture introduction](https://emmanuelvalverderamos.substack.com/p/event-driven-architecture-from-zero)
 * [The label survives, the meaning dies](https://emmanuelvalverderamos.substack.com/p/the-label-survives-the-meaning-dies)
@@ -36,7 +37,6 @@
 * [A complete guide to Pair Programming](https://emmanuelvalverderamos.substack.com/p/how-to-do-pair-programming)
 * [Introduction to Domain Storytelling](https://emmanuelvalverderamos.substack.com/p/introduction-to-domain-storytelling)
 * [Introduction to Event Modeling](https://emmanuelvalverderamos.substack.com/p/introduction-to-event-modeling)
-* [Introduction to Event Storming](https://emmanuelvalverderamos.substack.com/p/introduction-to-event-storming)
 <!--END_SECTION:Blog-->
 
 
