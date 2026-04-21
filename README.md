@@ -17,6 +17,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [Transactional Outbox Pattern, from Zero to Production](https://emmanuelvalverderamos.substack.com/p/transactional-outbox-pattern-from)
 * [Use AI is not a strategy](https://emmanuelvalverderamos.substack.com/p/use-ai-is-not-a-strategy)
 * [Product is not the backlog](https://emmanuelvalverderamos.substack.com/p/product-is-not-the-backlog)
 * [Event-Driven Architecture introduction](https://emmanuelvalverderamos.substack.com/p/event-driven-architecture-from-zero)
@@ -36,7 +37,6 @@
 * [Speedback](https://emmanuelvalverderamos.substack.com/p/speedback)
 * [A complete guide to Pair Programming](https://emmanuelvalverderamos.substack.com/p/how-to-do-pair-programming)
 * [Introduction to Domain Storytelling](https://emmanuelvalverderamos.substack.com/p/introduction-to-domain-storytelling)
-* [Introduction to Event Modeling](https://emmanuelvalverderamos.substack.com/p/introduction-to-event-modeling)
 <!--END_SECTION:Blog-->
 
 
