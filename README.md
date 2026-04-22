@@ -17,6 +17,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [Refactoring is a liquidity strategy](https://emmanuelvalverderamos.substack.com/p/refactoring-is-a-liquidity-strategy)
 * [Transactional Outbox Pattern, from Zero to Production](https://emmanuelvalverderamos.substack.com/p/transactional-outbox-pattern-from)
 * [Use AI is not a strategy](https://emmanuelvalverderamos.substack.com/p/use-ai-is-not-a-strategy)
 * [Product is not the backlog](https://emmanuelvalverderamos.substack.com/p/product-is-not-the-backlog)
@@ -36,7 +37,6 @@
 * [Separation of concerns, functional thinking, and the discipline of simplicity](https://emmanuelvalverderamos.substack.com/p/separation-of-concerns-functional)
 * [Speedback](https://emmanuelvalverderamos.substack.com/p/speedback)
 * [A complete guide to Pair Programming](https://emmanuelvalverderamos.substack.com/p/how-to-do-pair-programming)
-* [Introduction to Domain Storytelling](https://emmanuelvalverderamos.substack.com/p/introduction-to-domain-storytelling)
 <!--END_SECTION:Blog-->
 
 
