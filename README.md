@@ -17,6 +17,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [AI is teaching product teams to optimise the wrong things](https://emmanuelvalverderamos.substack.com/p/ai-is-teaching-product-teams-to-optimise)
 * [Event Sourcing, CQRS, And CQRS Plus Event Sourcing](https://emmanuelvalverderamos.substack.com/p/event-sourcing-cqrs-and-cqrs-plus)
 * [Product strategy is not a roadmap, and a roadmap is not a timeline](https://emmanuelvalverderamos.substack.com/p/product-strategy-is-not-a-roadmap)
 * [Refactoring is a liquidity strategy](https://emmanuelvalverderamos.substack.com/p/refactoring-is-a-liquidity-strategy)
@@ -36,7 +37,6 @@
 * [Trunk-based development is not a Git trick. It is what continuous integration looks like.](https://emmanuelvalverderamos.substack.com/p/trunk-based-development-is-not-a)
 * [Triangulation in TDD and the Rule of Three](https://emmanuelvalverderamos.substack.com/p/triangulation-in-tdd-and-the-rule)
 * [TDD Guided by ZOMBIES](https://emmanuelvalverderamos.substack.com/p/tdd-guided-by-zombies)
-* [Separation of concerns, functional thinking, and the discipline of simplicity](https://emmanuelvalverderamos.substack.com/p/separation-of-concerns-functional)
 <!--END_SECTION:Blog-->
 
 
