@@ -17,6 +17,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [The definitive guide to the IntelliJ IDEA HTTP Client](https://emmanuelvalverderamos.substack.com/p/the-definitive-guide-to-the-intellij)
 * [AI is teaching product teams to optimise the wrong things](https://emmanuelvalverderamos.substack.com/p/ai-is-teaching-product-teams-to-optimise)
 * [Event Sourcing, CQRS, And CQRS Plus Event Sourcing](https://emmanuelvalverderamos.substack.com/p/event-sourcing-cqrs-and-cqrs-plus)
 * [Product strategy is not a roadmap, and a roadmap is not a timeline](https://emmanuelvalverderamos.substack.com/p/product-strategy-is-not-a-roadmap)
@@ -36,7 +37,6 @@
 * [AI can write code. That was never the bottleneck.](https://emmanuelvalverderamos.substack.com/p/the-real-bottleneck-was-never-code)
 * [Trunk-based development is not a Git trick. It is what continuous integration looks like.](https://emmanuelvalverderamos.substack.com/p/trunk-based-development-is-not-a)
 * [Triangulation in TDD and the Rule of Three](https://emmanuelvalverderamos.substack.com/p/triangulation-in-tdd-and-the-rule)
-* [TDD Guided by ZOMBIES](https://emmanuelvalverderamos.substack.com/p/tdd-guided-by-zombies)
 <!--END_SECTION:Blog-->
 
 
