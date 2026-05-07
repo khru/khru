@@ -17,6 +17,8 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [Why LLM agentic development is the worst developer experience](https://emmanuelvalverderamos.substack.com/p/why-llm-agentic-development-is-the)
+* [Cheap Code is not cheap Software the SaaSmagedon](https://emmanuelvalverderamos.substack.com/p/cheap-code-is-not-cheap-software)
 * [The definitive guide to the IntelliJ IDEA HTTP Client](https://emmanuelvalverderamos.substack.com/p/the-definitive-guide-to-the-intellij)
 * [AI is teaching product teams to optimise the wrong things](https://emmanuelvalverderamos.substack.com/p/ai-is-teaching-product-teams-to-optimise)
 * [Event Sourcing, CQRS, And CQRS Plus Event Sourcing](https://emmanuelvalverderamos.substack.com/p/event-sourcing-cqrs-and-cqrs-plus)
@@ -35,8 +37,6 @@
 * [Idempotency in software: Designing systems where you can safely retry](https://emmanuelvalverderamos.substack.com/p/idempotency-in-software-designing)
 * [ACID, properly understood: transactions as the engine of correctness](https://emmanuelvalverderamos.substack.com/p/acid-properly-understood-transactions)
 * [AI can write code. That was never the bottleneck.](https://emmanuelvalverderamos.substack.com/p/the-real-bottleneck-was-never-code)
-* [Trunk-based development is not a Git trick. It is what continuous integration looks like.](https://emmanuelvalverderamos.substack.com/p/trunk-based-development-is-not-a)
-* [Triangulation in TDD and the Rule of Three](https://emmanuelvalverderamos.substack.com/p/triangulation-in-tdd-and-the-rule)
 <!--END_SECTION:Blog-->
 
 
