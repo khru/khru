@@ -17,6 +17,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [Output, Outcome, and Throughput: What Product Teams are really measuring when they say they deliver value](https://emmanuelvalverderamos.substack.com/p/output-outcome-and-throughput-what)
 * [Why LLM agentic development is the worst developer experience](https://emmanuelvalverderamos.substack.com/p/why-llm-agentic-development-is-the)
 * [Cheap Code is not cheap Software the SaaSmagedon](https://emmanuelvalverderamos.substack.com/p/cheap-code-is-not-cheap-software)
 * [The definitive guide to the IntelliJ IDEA HTTP Client](https://emmanuelvalverderamos.substack.com/p/the-definitive-guide-to-the-intellij)
@@ -36,7 +37,6 @@
 * [Stop measuring AI adoption with token counts](https://emmanuelvalverderamos.substack.com/p/stop-measuring-ai-adoption-with-token)
 * [Idempotency in software: Designing systems where you can safely retry](https://emmanuelvalverderamos.substack.com/p/idempotency-in-software-designing)
 * [ACID, properly understood: transactions as the engine of correctness](https://emmanuelvalverderamos.substack.com/p/acid-properly-understood-transactions)
-* [AI can write code. That was never the bottleneck.](https://emmanuelvalverderamos.substack.com/p/the-real-bottleneck-was-never-code)
 <!--END_SECTION:Blog-->
 
 
