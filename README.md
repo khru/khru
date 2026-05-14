@@ -17,6 +17,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [Faster code, slower system](https://emmanuelvalverderamos.substack.com/p/faster-code-slower-system)
 * [Output, Outcome, and Throughput: What Product Teams are really measuring when they say they deliver value](https://emmanuelvalverderamos.substack.com/p/output-outcome-and-throughput-what)
 * [Why LLM agentic development is the worst developer experience](https://emmanuelvalverderamos.substack.com/p/why-llm-agentic-development-is-the)
 * [Cheap Code is not cheap Software the SaaSmagedon](https://emmanuelvalverderamos.substack.com/p/cheap-code-is-not-cheap-software)
@@ -36,7 +37,6 @@
 * [My reflection on the real problem about AI in the software industry](https://emmanuelvalverderamos.substack.com/p/my-reflection-on-the-real-problem)
 * [Stop measuring AI adoption with token counts](https://emmanuelvalverderamos.substack.com/p/stop-measuring-ai-adoption-with-token)
 * [Idempotency in software: Designing systems where you can safely retry](https://emmanuelvalverderamos.substack.com/p/idempotency-in-software-designing)
-* [ACID, properly understood: transactions as the engine of correctness](https://emmanuelvalverderamos.substack.com/p/acid-properly-understood-transactions)
 <!--END_SECTION:Blog-->
 
 
