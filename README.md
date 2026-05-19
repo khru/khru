@@ -15,6 +15,10 @@
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------:|
 | [![sddefault](https://github.com/khru/khru/assets/6353105/98a045fe-8574-420d-a967-14c7f3c102e9)](https://www.youtube.com/live/lQP33NZo-nU?si=jZIMw5x4j8HSO74F) | [![maxresdefault](https://github.com/khru/khru/assets/6353105/7dff2bc3-307f-4345-ad92-93dda2abe2b9)](https://youtu.be/pXGqRBg-K4Y?si=y8XXGHhcoAz1fA1z) | [![maxresdefault (1)](https://github.com/khru/khru/assets/6353105/c9bcba28-8679-4923-bdbc-e4a7f50f6195)](https://youtu.be/FddyS7-crlQ?si=FoHRSiynUlM9a8kC) | [![image](https://github.com/user-attachments/assets/06d25cf5-985d-4604-9471-ff069ba47ac1)](https://youtu.be/EutsbaoBEUQ?si=iKnBG6UzhtQhOjCB) |
 
+| Manu Valverde y Fer del Caz - Refactoring Your Company: Practical Strategies | Emmanuel Valverde y Fernando del Caz: Improving Feedback in Teams |
+|:---:|:---:|
+| [![Refactoring Your Company](https://github.com/user-attachments/assets/6915d214-d9fc-44aa-81de-c095d3567554)](https://youtu.be/eYSRYA8FImw?si=RBjSwR8BfhlV9e1G) | [![Improving Feedback in Teams](https://github.com/user-attachments/assets/30e20b54-ff85-409a-9a6f-f0aff3382396)](https://youtu.be/WXk0SOmooh8?si=c7pNrI4nSHPYWxzL) |
+
 ## Crafting Software
 <!--START_SECTION:Blog-->
 * [Faster code, slower system](https://emmanuelvalverderamos.substack.com/p/faster-code-slower-system)
