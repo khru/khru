@@ -21,6 +21,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [AI does not replace XP or Agile. It raises the cost of pretending.](https://emmanuelvalverderamos.substack.com/p/ai-does-not-replace-xp-or-agile-it)
 * [The Resource Utilization Trap: Why Keeping Everyone Busy Can Destroy Real Productivity](https://emmanuelvalverderamos.substack.com/p/the-resource-utilization-trap-why)
 * [Faster code, slower system](https://emmanuelvalverderamos.substack.com/p/faster-code-slower-system)
 * [Output, Outcome, and Throughput: What Product Teams are really measuring when they say they deliver value](https://emmanuelvalverderamos.substack.com/p/output-outcome-and-throughput-what)
@@ -40,7 +41,6 @@
 * [Streaming vs Pub Sub and the Architectural Impact on Event Driven Systems](https://emmanuelvalverderamos.substack.com/p/streaming-vs-pub-sub-and-the-architectural)
 * [A Developer's Guide to Message Brokers](https://emmanuelvalverderamos.substack.com/p/a-developers-guide-to-message-brokers)
 * [My reflection on the real problem about AI in the software industry](https://emmanuelvalverderamos.substack.com/p/my-reflection-on-the-real-problem)
-* [Stop measuring AI adoption with token counts](https://emmanuelvalverderamos.substack.com/p/stop-measuring-ai-adoption-with-token)
 <!--END_SECTION:Blog-->
 
 
