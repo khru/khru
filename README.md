@@ -21,6 +21,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [The lie inside the estimate](https://emmanuelvalverderamos.substack.com/p/the-lie-inside-the-estimate)
 * [Ways of Working and Working Agreements: what they are, why they matter, and how to tell them apart](https://emmanuelvalverderamos.substack.com/p/ways-of-working-and-working-agreements)
 * [AI does not replace XP or Agile. It raises the cost of pretending.](https://emmanuelvalverderamos.substack.com/p/ai-does-not-replace-xp-or-agile-it)
 * [The Resource Utilization Trap: Why Keeping Everyone Busy Can Destroy Real Productivity](https://emmanuelvalverderamos.substack.com/p/the-resource-utilization-trap-why)
@@ -40,7 +41,6 @@
 * [The label survives, the meaning dies](https://emmanuelvalverderamos.substack.com/p/the-label-survives-the-meaning-dies)
 * [AI assistance is not pair programming](https://emmanuelvalverderamos.substack.com/p/ai-assistance-is-not-pair-programming)
 * [Streaming vs Pub Sub and the Architectural Impact on Event Driven Systems](https://emmanuelvalverderamos.substack.com/p/streaming-vs-pub-sub-and-the-architectural)
-* [A Developer's Guide to Message Brokers](https://emmanuelvalverderamos.substack.com/p/a-developers-guide-to-message-brokers)
 <!--END_SECTION:Blog-->
 
 
