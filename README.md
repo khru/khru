@@ -21,6 +21,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [Pain = Coupling × Volatility × Distance](https://emmanuelvalverderamos.substack.com/p/pain-coupling-volatility-distance)
 * [The lie inside the estimate](https://emmanuelvalverderamos.substack.com/p/the-lie-inside-the-estimate)
 * [Ways of Working and Working Agreements: what they are, why they matter, and how to tell them apart](https://emmanuelvalverderamos.substack.com/p/ways-of-working-and-working-agreements)
 * [AI does not replace XP or Agile. It raises the cost of pretending.](https://emmanuelvalverderamos.substack.com/p/ai-does-not-replace-xp-or-agile-it)
@@ -40,7 +41,6 @@
 * [Event-Driven Architecture introduction](https://emmanuelvalverderamos.substack.com/p/event-driven-architecture-from-zero)
 * [The label survives, the meaning dies](https://emmanuelvalverderamos.substack.com/p/the-label-survives-the-meaning-dies)
 * [AI assistance is not pair programming](https://emmanuelvalverderamos.substack.com/p/ai-assistance-is-not-pair-programming)
-* [Streaming vs Pub Sub and the Architectural Impact on Event Driven Systems](https://emmanuelvalverderamos.substack.com/p/streaming-vs-pub-sub-and-the-architectural)
 <!--END_SECTION:Blog-->
 
 
