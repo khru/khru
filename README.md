@@ -21,6 +21,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [The Productivity mirage](https://emmanuelvalverderamos.substack.com/p/the-productivity-mirage)
 * [Parallel Change: how to evolve live systems without breaking consumers](https://emmanuelvalverderamos.substack.com/p/parallel-change-how-to-evolve-live)
 * [Pain = Coupling × Volatility × Distance](https://emmanuelvalverderamos.substack.com/p/pain-coupling-volatility-distance)
 * [The lie inside the estimate](https://emmanuelvalverderamos.substack.com/p/the-lie-inside-the-estimate)
@@ -40,7 +41,6 @@
 * [Use AI is not a strategy](https://emmanuelvalverderamos.substack.com/p/use-ai-is-not-a-strategy)
 * [Product is not the backlog](https://emmanuelvalverderamos.substack.com/p/product-is-not-the-backlog)
 * [Event-Driven Architecture introduction](https://emmanuelvalverderamos.substack.com/p/event-driven-architecture-from-zero)
-* [The label survives, the meaning dies](https://emmanuelvalverderamos.substack.com/p/the-label-survives-the-meaning-dies)
 <!--END_SECTION:Blog-->
 
 
