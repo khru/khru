@@ -21,6 +21,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [The work lanes that ate the team](https://emmanuelvalverderamos.substack.com/p/the-work-lanes-that-ate-the-team)
 * [How Objects Relate: A Practical Taxonomy for Object-Oriented Design](https://emmanuelvalverderamos.substack.com/p/how-objects-relate-a-practical-taxonomy)
 * [The Productivity mirage](https://emmanuelvalverderamos.substack.com/p/the-productivity-mirage)
 * [Parallel Change: how to evolve live systems without breaking consumers](https://emmanuelvalverderamos.substack.com/p/parallel-change-how-to-evolve-live)
@@ -40,7 +41,6 @@
 * [Refactoring is a liquidity strategy](https://emmanuelvalverderamos.substack.com/p/refactoring-is-a-liquidity-strategy)
 * [Transactional Outbox Pattern, from Zero to Production](https://emmanuelvalverderamos.substack.com/p/transactional-outbox-pattern-from)
 * [Use AI is not a strategy](https://emmanuelvalverderamos.substack.com/p/use-ai-is-not-a-strategy)
-* [Product is not the backlog](https://emmanuelvalverderamos.substack.com/p/product-is-not-the-backlog)
 <!--END_SECTION:Blog-->
 
 
