@@ -21,6 +21,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [Role tests are not about comparing implementations](https://emmanuelvalverderamos.substack.com/p/role-tests-are-not-about-comparing)
 * [The work lanes that ate the team](https://emmanuelvalverderamos.substack.com/p/the-work-lanes-that-ate-the-team)
 * [How Objects Relate: A Practical Taxonomy for Object-Oriented Design](https://emmanuelvalverderamos.substack.com/p/how-objects-relate-a-practical-taxonomy)
 * [The Productivity mirage](https://emmanuelvalverderamos.substack.com/p/the-productivity-mirage)
@@ -40,7 +41,6 @@
 * [Product strategy is not a roadmap, and a roadmap is not a timeline](https://emmanuelvalverderamos.substack.com/p/product-strategy-is-not-a-roadmap)
 * [Refactoring is a liquidity strategy](https://emmanuelvalverderamos.substack.com/p/refactoring-is-a-liquidity-strategy)
 * [Transactional Outbox Pattern, from Zero to Production](https://emmanuelvalverderamos.substack.com/p/transactional-outbox-pattern-from)
-* [Use AI is not a strategy](https://emmanuelvalverderamos.substack.com/p/use-ai-is-not-a-strategy)
 <!--END_SECTION:Blog-->
 
 
