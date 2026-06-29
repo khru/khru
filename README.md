@@ -21,6 +21,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [Agents are not a new abstraction layer. They are a new place to hide the bill](https://emmanuelvalverderamos.substack.com/p/agents-are-not-a-new-abstraction)
 * [Role tests are not about comparing implementations](https://emmanuelvalverderamos.substack.com/p/role-tests-are-not-about-comparing)
 * [The work lanes that ate the team](https://emmanuelvalverderamos.substack.com/p/the-work-lanes-that-ate-the-team)
 * [How Objects Relate: A Practical Taxonomy for Object-Oriented Design](https://emmanuelvalverderamos.substack.com/p/how-objects-relate-a-practical-taxonomy)
@@ -40,7 +41,6 @@
 * [Event Sourcing, CQRS, And CQRS Plus Event Sourcing](https://emmanuelvalverderamos.substack.com/p/event-sourcing-cqrs-and-cqrs-plus)
 * [Product strategy is not a roadmap, and a roadmap is not a timeline](https://emmanuelvalverderamos.substack.com/p/product-strategy-is-not-a-roadmap)
 * [Refactoring is a liquidity strategy](https://emmanuelvalverderamos.substack.com/p/refactoring-is-a-liquidity-strategy)
-* [Transactional Outbox Pattern, from Zero to Production](https://emmanuelvalverderamos.substack.com/p/transactional-outbox-pattern-from)
 <!--END_SECTION:Blog-->
 
 
