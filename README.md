@@ -21,6 +21,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [Role tests are not about comparing implementations](https://emmanuelvalverderamos.substack.com/p/role-tests-are-not-about-comparing-c75)
 * [Agents are not a new abstraction layer. They are a new place to hide the bill](https://emmanuelvalverderamos.substack.com/p/agents-are-not-a-new-abstraction)
 * [Role tests are not about comparing implementations](https://emmanuelvalverderamos.substack.com/p/role-tests-are-not-about-comparing)
 * [The work lanes that ate the team](https://emmanuelvalverderamos.substack.com/p/the-work-lanes-that-ate-the-team)
@@ -40,7 +41,6 @@
 * [AI is teaching product teams to optimise the wrong things](https://emmanuelvalverderamos.substack.com/p/ai-is-teaching-product-teams-to-optimise)
 * [Event Sourcing, CQRS, And CQRS Plus Event Sourcing](https://emmanuelvalverderamos.substack.com/p/event-sourcing-cqrs-and-cqrs-plus)
 * [Product strategy is not a roadmap, and a roadmap is not a timeline](https://emmanuelvalverderamos.substack.com/p/product-strategy-is-not-a-roadmap)
-* [Refactoring is a liquidity strategy](https://emmanuelvalverderamos.substack.com/p/refactoring-is-a-liquidity-strategy)
 <!--END_SECTION:Blog-->
 
 
