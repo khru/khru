@@ -21,7 +21,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
-* [Role tests are not about comparing implementations](https://emmanuelvalverderamos.substack.com/p/role-tests-are-not-about-comparing-c75)
+* [Role tests are not about comparing implementations 2](https://emmanuelvalverderamos.substack.com/p/role-tests-are-not-about-comparing-c75)
 * [Agents are not a new abstraction layer. They are a new place to hide the bill](https://emmanuelvalverderamos.substack.com/p/agents-are-not-a-new-abstraction)
 * [Role tests are not about comparing implementations](https://emmanuelvalverderamos.substack.com/p/role-tests-are-not-about-comparing)
 * [The work lanes that ate the team](https://emmanuelvalverderamos.substack.com/p/the-work-lanes-that-ate-the-team)
