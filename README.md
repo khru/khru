@@ -21,6 +21,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [Responsibility-driven design: giving behaviour a responsible home](https://emmanuelvalverderamos.substack.com/p/responsibility-driven-design-giving)
 * [Role tests are not about comparing implementations 2](https://emmanuelvalverderamos.substack.com/p/role-tests-are-not-about-comparing-c75)
 * [Agents are not a new abstraction layer. They are a new place to hide the bill](https://emmanuelvalverderamos.substack.com/p/agents-are-not-a-new-abstraction)
 * [Role tests are not about comparing implementations](https://emmanuelvalverderamos.substack.com/p/role-tests-are-not-about-comparing)
@@ -40,7 +41,6 @@
 * [The definitive guide to the IntelliJ IDEA HTTP Client](https://emmanuelvalverderamos.substack.com/p/the-definitive-guide-to-the-intellij)
 * [AI is teaching product teams to optimise the wrong things](https://emmanuelvalverderamos.substack.com/p/ai-is-teaching-product-teams-to-optimise)
 * [Event Sourcing, CQRS, And CQRS Plus Event Sourcing](https://emmanuelvalverderamos.substack.com/p/event-sourcing-cqrs-and-cqrs-plus)
-* [Product strategy is not a roadmap, and a roadmap is not a timeline](https://emmanuelvalverderamos.substack.com/p/product-strategy-is-not-a-roadmap)
 <!--END_SECTION:Blog-->
 
 
