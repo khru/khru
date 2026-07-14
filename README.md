@@ -21,6 +21,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [Stop making strategy without a map](https://emmanuelvalverderamos.substack.com/p/stop-making-strategy-without-a-map)
 * [Responsibility-driven design: giving behaviour a responsible home](https://emmanuelvalverderamos.substack.com/p/responsibility-driven-design-giving)
 * [Role tests are not about comparing implementations 2](https://emmanuelvalverderamos.substack.com/p/role-tests-are-not-about-comparing-c75)
 * [Agents are not a new abstraction layer. They are a new place to hide the bill](https://emmanuelvalverderamos.substack.com/p/agents-are-not-a-new-abstraction)
@@ -40,7 +41,6 @@
 * [Cheap Code is not cheap Software the SaaSmagedon](https://emmanuelvalverderamos.substack.com/p/cheap-code-is-not-cheap-software)
 * [The definitive guide to the IntelliJ IDEA HTTP Client](https://emmanuelvalverderamos.substack.com/p/the-definitive-guide-to-the-intellij)
 * [AI is teaching product teams to optimise the wrong things](https://emmanuelvalverderamos.substack.com/p/ai-is-teaching-product-teams-to-optimise)
-* [Event Sourcing, CQRS, And CQRS Plus Event Sourcing](https://emmanuelvalverderamos.substack.com/p/event-sourcing-cqrs-and-cqrs-plus)
 <!--END_SECTION:Blog-->
 
 
