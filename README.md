@@ -21,6 +21,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [Kata 1: Conference scheduler](https://emmanuelvalverderamos.substack.com/p/kata-1-conference-scheduler)
 * [Stop making strategy without a map](https://emmanuelvalverderamos.substack.com/p/stop-making-strategy-without-a-map)
 * [Responsibility-driven design: giving behaviour a responsible home](https://emmanuelvalverderamos.substack.com/p/responsibility-driven-design-giving)
 * [Role tests are not about comparing implementations 2](https://emmanuelvalverderamos.substack.com/p/role-tests-are-not-about-comparing-c75)
@@ -40,7 +41,6 @@
 * [Why LLM agentic development is the worst developer experience](https://emmanuelvalverderamos.substack.com/p/why-llm-agentic-development-is-the)
 * [Cheap Code is not cheap Software the SaaSmagedon](https://emmanuelvalverderamos.substack.com/p/cheap-code-is-not-cheap-software)
 * [The definitive guide to the IntelliJ IDEA HTTP Client](https://emmanuelvalverderamos.substack.com/p/the-definitive-guide-to-the-intellij)
-* [AI is teaching product teams to optimise the wrong things](https://emmanuelvalverderamos.substack.com/p/ai-is-teaching-product-teams-to-optimise)
 <!--END_SECTION:Blog-->
 
 
