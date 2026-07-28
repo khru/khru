@@ -21,6 +21,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [Stop making developers remember the ritual](https://emmanuelvalverderamos.substack.com/p/stop-making-developers-remember-the)
 * [Kata 1: Conference scheduler](https://emmanuelvalverderamos.substack.com/p/kata-1-conference-scheduler)
 * [Stop making strategy without a map](https://emmanuelvalverderamos.substack.com/p/stop-making-strategy-without-a-map)
 * [Responsibility-driven design: giving behaviour a responsible home](https://emmanuelvalverderamos.substack.com/p/responsibility-driven-design-giving)
@@ -40,7 +41,6 @@
 * [Output, Outcome, and Throughput: What Product Teams are really measuring when they say they deliver value](https://emmanuelvalverderamos.substack.com/p/output-outcome-and-throughput-what)
 * [Why LLM agentic development is the worst developer experience](https://emmanuelvalverderamos.substack.com/p/why-llm-agentic-development-is-the)
 * [Cheap Code is not cheap Software the SaaSmagedon](https://emmanuelvalverderamos.substack.com/p/cheap-code-is-not-cheap-software)
-* [The definitive guide to the IntelliJ IDEA HTTP Client](https://emmanuelvalverderamos.substack.com/p/the-definitive-guide-to-the-intellij)
 <!--END_SECTION:Blog-->
 
 
