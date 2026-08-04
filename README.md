@@ -21,6 +21,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [Your dependencies are part of your production system](https://emmanuelvalverderamos.substack.com/p/your-dependencies-are-part-of-your)
 * [Stop making developers remember the ritual](https://emmanuelvalverderamos.substack.com/p/stop-making-developers-remember-the)
 * [Kata 1: Conference scheduler](https://emmanuelvalverderamos.substack.com/p/kata-1-conference-scheduler)
 * [Stop making strategy without a map](https://emmanuelvalverderamos.substack.com/p/stop-making-strategy-without-a-map)
@@ -40,7 +41,6 @@
 * [Faster code, slower system](https://emmanuelvalverderamos.substack.com/p/faster-code-slower-system)
 * [Output, Outcome, and Throughput: What Product Teams are really measuring when they say they deliver value](https://emmanuelvalverderamos.substack.com/p/output-outcome-and-throughput-what)
 * [Why LLM agentic development is the worst developer experience](https://emmanuelvalverderamos.substack.com/p/why-llm-agentic-development-is-the)
-* [Cheap Code is not cheap Software the SaaSmagedon](https://emmanuelvalverderamos.substack.com/p/cheap-code-is-not-cheap-software)
 <!--END_SECTION:Blog-->
 
 
