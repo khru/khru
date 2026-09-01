@@ -21,6 +21,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [The pipeline is not the practice](https://emmanuelvalverderamos.substack.com/p/the-pipeline-is-not-the-practice)
 * [Basics of API Gateway and Reverse Proxy](https://emmanuelvalverderamos.substack.com/p/basics-of-api-gateway-and-reverse)
 * [The productivity trap](https://emmanuelvalverderamos.substack.com/p/the-productivity-trap)
 * [Kata 2: Library loan](https://emmanuelvalverderamos.substack.com/p/kata-2-library-loan)
@@ -40,7 +41,6 @@
 * [The lie inside the estimate](https://emmanuelvalverderamos.substack.com/p/the-lie-inside-the-estimate)
 * [Ways of Working and Working Agreements: what they are, why they matter, and how to tell them apart](https://emmanuelvalverderamos.substack.com/p/ways-of-working-and-working-agreements)
 * [AI does not replace XP or Agile. It raises the cost of pretending.](https://emmanuelvalverderamos.substack.com/p/ai-does-not-replace-xp-or-agile-it)
-* [The Resource Utilization Trap: Why Keeping Everyone Busy Can Destroy Real Productivity](https://emmanuelvalverderamos.substack.com/p/the-resource-utilization-trap-why)
 <!--END_SECTION:Blog-->
 
 
