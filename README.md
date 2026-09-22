@@ -21,6 +21,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [Object Calisthenics: the weight that teaches objects to think](https://emmanuelvalverderamos.substack.com/p/object-calisthenics-the-weight-that-4e6)
 * [The pipeline is not the practice](https://emmanuelvalverderamos.substack.com/p/the-pipeline-is-not-the-practice)
 * [Basics of API Gateway and Reverse Proxy](https://emmanuelvalverderamos.substack.com/p/basics-of-api-gateway-and-reverse)
 * [The productivity trap](https://emmanuelvalverderamos.substack.com/p/the-productivity-trap)
@@ -40,7 +41,6 @@
 * [Pain = Coupling × Volatility × Distance](https://emmanuelvalverderamos.substack.com/p/pain-coupling-volatility-distance)
 * [The lie inside the estimate](https://emmanuelvalverderamos.substack.com/p/the-lie-inside-the-estimate)
 * [Ways of Working and Working Agreements: what they are, why they matter, and how to tell them apart](https://emmanuelvalverderamos.substack.com/p/ways-of-working-and-working-agreements)
-* [AI does not replace XP or Agile. It raises the cost of pretending.](https://emmanuelvalverderamos.substack.com/p/ai-does-not-replace-xp-or-agile-it)
 <!--END_SECTION:Blog-->
 
 
