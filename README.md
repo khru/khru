@@ -21,6 +21,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [Coupling is not the enemy](https://emmanuelvalverderamos.substack.com/p/coupling-is-not-the-enemy)
 * [Object Calisthenics: the weight that teaches objects to think](https://emmanuelvalverderamos.substack.com/p/object-calisthenics-the-weight-that-4e6)
 * [The pipeline is not the practice](https://emmanuelvalverderamos.substack.com/p/the-pipeline-is-not-the-practice)
 * [Basics of API Gateway and Reverse Proxy](https://emmanuelvalverderamos.substack.com/p/basics-of-api-gateway-and-reverse)
@@ -40,7 +41,6 @@
 * [Parallel Change: how to evolve live systems without breaking consumers](https://emmanuelvalverderamos.substack.com/p/parallel-change-how-to-evolve-live)
 * [Pain = Coupling × Volatility × Distance](https://emmanuelvalverderamos.substack.com/p/pain-coupling-volatility-distance)
 * [The lie inside the estimate](https://emmanuelvalverderamos.substack.com/p/the-lie-inside-the-estimate)
-* [Ways of Working and Working Agreements: what they are, why they matter, and how to tell them apart](https://emmanuelvalverderamos.substack.com/p/ways-of-working-and-working-agreements)
 <!--END_SECTION:Blog-->
 
 
