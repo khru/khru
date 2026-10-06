@@ -21,6 +21,7 @@
 
 ## Crafting Software
 <!--START_SECTION:Blog-->
+* [Stop prioritizing by noise: use RICE to make trade-offs visible](https://emmanuelvalverderamos.substack.com/p/stop-prioritizing-by-noise-use-rice)
 * [Coupling is not the enemy](https://emmanuelvalverderamos.substack.com/p/coupling-is-not-the-enemy)
 * [Object Calisthenics: the weight that teaches objects to think](https://emmanuelvalverderamos.substack.com/p/object-calisthenics-the-weight-that-4e6)
 * [The pipeline is not the practice](https://emmanuelvalverderamos.substack.com/p/the-pipeline-is-not-the-practice)
@@ -40,7 +41,6 @@
 * [The Productivity mirage](https://emmanuelvalverderamos.substack.com/p/the-productivity-mirage)
 * [Parallel Change: how to evolve live systems without breaking consumers](https://emmanuelvalverderamos.substack.com/p/parallel-change-how-to-evolve-live)
 * [Pain = Coupling × Volatility × Distance](https://emmanuelvalverderamos.substack.com/p/pain-coupling-volatility-distance)
-* [The lie inside the estimate](https://emmanuelvalverderamos.substack.com/p/the-lie-inside-the-estimate)
 <!--END_SECTION:Blog-->
 
 
